@@ -108,7 +108,7 @@ export const PROJECTS: Project[] = [
       { label: "Celery", color: "orange" },
     ],
     githubUrl: "https://github.com/hashimgujjar447/workflow_hub",
-    liveUrl: "#",
+    liveUrl: "https://www.workflowhub.me/",
     metrics: [
       { label: "Real-time events", value: "< 50ms" },
       { label: "RBAC levels", value: "5 tiers" },
@@ -200,7 +200,7 @@ export const PROJECTS: Project[] = [
       { label: "WebSocket", color: "yellow" },
     ],
     githubUrl: "https://github.com/hashimgujjar447/workflow_frontend",
-    liveUrl: "#",
+    liveUrl: "https://business-nexus-three.vercel.app/",
     metrics: [
       { label: "WS Events", value: "7 types" },
       { label: "Auth", value: "JWT + Auto-refresh" },
@@ -399,7 +399,7 @@ export const PROJECTS: Project[] = [
       { label: "JWT", color: "orange" },
     ],
     githubUrl: "https://github.com/hashimgujjar447/business-nexus",
-    liveUrl: "#",
+    liveUrl: "https://business-nexus-three.vercel.app/",
     metrics: [
       { label: "Roles", value: "2 (Investor / Entrepreneur)" },
       { label: "Socket Events", value: "6+ types" },
@@ -486,7 +486,7 @@ export const PROJECTS: Project[] = [
       { label: "Multer", color: "default" },
     ],
     githubUrl: "https://github.com/hashimgujjar447/ecommerce-fullstack-design",
-    liveUrl: "#",
+    liveUrl: "https://ecommerce-frontend-8i37.vercel.app/",
     metrics: [
       { label: "Auth", value: "JWT + bcrypt" },
       { label: "Images", value: "Cloudinary" },
@@ -568,7 +568,7 @@ export const PROJECTS: Project[] = [
       { label: "Resend", color: "default" },
     ],
     githubUrl: "https://github.com/hashimgujjar447/alaa-cooling-website",
-    liveUrl: "#",
+    liveUrl: "https://www.aliacservicesksa.com/",
     metrics: [
       { label: "Languages", value: "EN + AR (RTL)" },
       { label: "Auth", value: "JWT HTTP-only cookies" },
